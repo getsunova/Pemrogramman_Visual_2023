@@ -1,0 +1,33 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\jajar genjang\jajar genjang\bin\Debug\jajar genjang.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\jajar genjang\jajar genjang\bin\Debug\jajar genjang.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\jajar genjang\jajar genjang\bin\Debug\jajar genjang.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\jajar genjang\jajar genjang\bin\Debug\jajar genjang.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\jajar genjang\jajar genjang\obj\Debug\jajar genjang.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\jajar genjang\jajar genjang\obj\Debug\jajar_genjang.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\jajar genjang\jajar genjang\obj\Debug\jajar_genjang.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\jajar genjang\jajar genjang\obj\Debug\jajar genjang.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\jajar genjang\jajar genjang\obj\Debug\jajar genjang.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\jajar genjang\jajar genjang\obj\Debug\jajar genjang.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\jajar genjang\jajar genjang\obj\Debug\jajar genjang.pdb
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\jajar genjang\jajar genjang\bin\Debug\jajar genjang.exe.config
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\jajar genjang\jajar genjang\obj\Debug\jajar genjang.exe
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\jajar genjang\jajar genjang\obj\Debug\jajar genjang.xml
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\jajar genjang\jajar genjang\obj\Debug\jajar genjang.pdb
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\jajar genjang\jajar genjang\bin\Debug\jajar genjang.exe
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\jajar genjang\jajar genjang\bin\Debug\jajar genjang.pdb
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\jajar genjang\jajar genjang\bin\Debug\jajar genjang.xml
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\jajar genjang\jajar genjang\obj\Debug\jajar genjang.vbprojResolveAssemblyReference.cache
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\jajar genjang\jajar genjang\obj\Debug\jajar_genjang.Form1.resources
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\jajar genjang\jajar genjang\obj\Debug\jajar_genjang.Resources.resources
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\jajar genjang\jajar genjang\obj\Debug\jajar genjang.vbproj.GenerateResource.Cache
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\jajar genjang\jajar genjang\bin\Debug\jajar genjang.exe.config
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\jajar genjang\jajar genjang\obj\Debug\jajar genjang.exe
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\jajar genjang\jajar genjang\obj\Debug\jajar genjang.xml
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\jajar genjang\jajar genjang\obj\Debug\jajar genjang.pdb
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\jajar genjang\jajar genjang\bin\Debug\jajar genjang.exe
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\jajar genjang\jajar genjang\bin\Debug\jajar genjang.pdb
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\jajar genjang\jajar genjang\bin\Debug\jajar genjang.xml
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\jajar genjang\jajar genjang\obj\Debug\jajar genjang.vbprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\jajar genjang\jajar genjang\obj\Debug\jajar_genjang.Form1.resources
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\jajar genjang\jajar genjang\obj\Debug\jajar_genjang.Resources.resources
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\jajar genjang\jajar genjang\obj\Debug\jajar genjang.vbproj.GenerateResource.Cache

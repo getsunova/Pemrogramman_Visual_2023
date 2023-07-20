@@ -1,0 +1,33 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Lingkaran\Lingkaran\bin\Debug\Lingkaran.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Lingkaran\Lingkaran\bin\Debug\Lingkaran.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Lingkaran\Lingkaran\bin\Debug\Lingkaran.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Lingkaran\Lingkaran\bin\Debug\Lingkaran.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Lingkaran\Lingkaran\obj\Debug\Lingkaran.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Lingkaran\Lingkaran\obj\Debug\Lingkaran.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Lingkaran\Lingkaran\obj\Debug\Lingkaran.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Lingkaran\Lingkaran\obj\Debug\Lingkaran.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Lingkaran\Lingkaran\obj\Debug\Lingkaran.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Lingkaran\Lingkaran\obj\Debug\Lingkaran.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Lingkaran\Lingkaran\obj\Debug\Lingkaran.pdb
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\bin\Debug\Lingkaran.exe.config
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.exe
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.xml
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.pdb
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\bin\Debug\Lingkaran.exe
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\bin\Debug\Lingkaran.pdb
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\bin\Debug\Lingkaran.xml
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.vbprojResolveAssemblyReference.cache
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.Form1.resources
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.Resources.resources
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.vbproj.GenerateResource.Cache
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\bin\Debug\Lingkaran.exe.config
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.exe
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.xml
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.pdb
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\bin\Debug\Lingkaran.exe
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\bin\Debug\Lingkaran.pdb
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\bin\Debug\Lingkaran.xml
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.vbprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.Form1.resources
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.Resources.resources
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.vbproj.GenerateResource.Cache
