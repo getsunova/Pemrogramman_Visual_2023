@@ -1,0 +1,33 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\segitiga\segitiga\bin\Debug\segitiga.exe.config
+C:\Users\Lenovo\documents\visual studio 2015\Projects\segitiga\segitiga\bin\Debug\segitiga.exe
+C:\Users\Lenovo\documents\visual studio 2015\Projects\segitiga\segitiga\bin\Debug\segitiga.pdb
+C:\Users\Lenovo\documents\visual studio 2015\Projects\segitiga\segitiga\bin\Debug\segitiga.xml
+C:\Users\Lenovo\documents\visual studio 2015\Projects\segitiga\segitiga\obj\Debug\segitiga.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2015\Projects\segitiga\segitiga\obj\Debug\segitiga.Form1.resources
+C:\Users\Lenovo\documents\visual studio 2015\Projects\segitiga\segitiga\obj\Debug\segitiga.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2015\Projects\segitiga\segitiga\obj\Debug\segitiga.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2015\Projects\segitiga\segitiga\obj\Debug\segitiga.exe
+C:\Users\Lenovo\documents\visual studio 2015\Projects\segitiga\segitiga\obj\Debug\segitiga.xml
+C:\Users\Lenovo\documents\visual studio 2015\Projects\segitiga\segitiga\obj\Debug\segitiga.pdb
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\segitiga\segitiga\bin\Debug\segitiga.exe.config
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\segitiga\segitiga\obj\Debug\segitiga.exe
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\segitiga\segitiga\obj\Debug\segitiga.xml
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\segitiga\segitiga\obj\Debug\segitiga.pdb
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\segitiga\segitiga\bin\Debug\segitiga.exe
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\segitiga\segitiga\bin\Debug\segitiga.pdb
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\segitiga\segitiga\bin\Debug\segitiga.xml
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\segitiga\segitiga\obj\Debug\segitiga.vbprojResolveAssemblyReference.cache
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\segitiga\segitiga\obj\Debug\segitiga.Form1.resources
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\segitiga\segitiga\obj\Debug\segitiga.Resources.resources
+C:\Users\sahda\Downloads\pemrograman_visual2023-main\pemrograman_visual2023-main\Pertemuan3\LATIHAN3\segitiga\segitiga\obj\Debug\segitiga.vbproj.GenerateResource.Cache
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\segitiga\segitiga\bin\Debug\segitiga.exe.config
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\segitiga\segitiga\obj\Debug\segitiga.exe
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\segitiga\segitiga\obj\Debug\segitiga.xml
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\segitiga\segitiga\obj\Debug\segitiga.pdb
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\segitiga\segitiga\bin\Debug\segitiga.exe
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\segitiga\segitiga\bin\Debug\segitiga.pdb
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\segitiga\segitiga\bin\Debug\segitiga.xml
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\segitiga\segitiga\obj\Debug\segitiga.vbprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\segitiga\segitiga\obj\Debug\segitiga.Form1.resources
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\segitiga\segitiga\obj\Debug\segitiga.Resources.resources
+D:\Kuliah\Semester 6\Pemrogramman Visual\Pertemuan3\LATIHAN3\segitiga\segitiga\obj\Debug\segitiga.vbproj.GenerateResource.Cache
