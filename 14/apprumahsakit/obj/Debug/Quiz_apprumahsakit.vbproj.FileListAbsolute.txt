@@ -1,0 +1,14 @@
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.exe.config
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.exe
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.pdb
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.xml
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\bin\Debug\Newtonsoft.Json.pdb
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\bin\Debug\Newtonsoft.Json.xml
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.Form1.resources
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.Form2.resources
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.Resources.resources
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\obj\Debug\Quiz_apprumahsakit.vbproj.GenerateResource.Cache
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.exe
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.xml
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.pdb
+D:\Kuliah\Semester 6\Pemrogramman Visual\14 - quiz\Tugas quiz Apprumahsakit\apprumahsakit\apprumahsakit\obj\Debug\Quiz_apprumahsakit.vbprojResolveAssemblyReference.cache
